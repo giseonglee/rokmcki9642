@@ -49,5 +49,5 @@ def faceDetect():
             break
     cam.release()
     cv2.destroyAllWindows()
-    print("왜안돼")
+    print("왜안돼?")
 faceDetect() 
